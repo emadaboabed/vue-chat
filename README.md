@@ -1,24 +1,8 @@
-# vue-chat
+small chat app made it with vue and firebase
 
-## Project setup
-```
-npm install
-```
+and this is the first chat app i have made to go out of traditional landing pages and dashboard apps
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+practiced with it the vue in general and learned
+some useful approaches
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+overall get familiar with vue
